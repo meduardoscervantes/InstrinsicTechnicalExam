@@ -12,7 +12,7 @@
 2. Create the [8th_graders.ipynb](https://github.com/meduardoscervantes/InstrinsicTechnicalExam/blob/main/8th_graders.ipynb) file for coding.
 3. Looking at the Eight Graders enrollment column, organize the schools based on the number of 8th grade enrolled students.
     ![](https://github.com/meduardoscervantes/InstrinsicTechnicalExam/blob/main/resources/img/top_20_school.png "Top Schools with 8th Graders")
-4. Convert the information into a map to try and see if the location of the schools may have an impace.
+4. Convert the information into a map to try and see if the location of the schools may have an impact.
 5. Created the [address.ipynb](https://github.com/meduardoscervantes/InstrinsicTechnicalExam/blob/main/address.ipynb) file for coding.
 6. Using [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview), the schools could be plotted on to a map to show the distance from central Chicago by getting their coordinates.
 7. Displayed the top 20 schools
@@ -21,7 +21,7 @@
     ![](https://github.com/meduardoscervantes/InstrinsicTechnicalExam/blob/main/resources/img/possible_outliers.png "Possible Outlier Schools from Google Data")
 
 ## Conclusion
-With the short amount of time to work on this, we can canfidently give the recruitment team a list of schools to reach out to based on the number of actively enrolled 8th grade students.
+With the short amount of time to work on this, we can confidently give the recruitment team a list of schools to reach out to based on the number of actively enrolled 8th grade students.
 
 ### Considerations
 - I would have liked to get more data from the schools that were not found from [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) to get a more accurate map.
