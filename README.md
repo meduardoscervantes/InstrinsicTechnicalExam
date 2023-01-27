@@ -10,10 +10,8 @@
 ## Execution
 1. Convert the 2022-2023 Demographics Spreadsheet into a CSV file for python.
 2. Create the [8th_graders.ipynb](https://github.com/meduardoscervantes/InstrinsicTechnicalExam/blob/main/8th_graders.ipynb) file for coding.
-3. Looking at the Eight Graders enrollment column, organize the schools based on the number of 8th grade enrolled students. 
----
+3. Looking at the Eight Graders enrollment column, organize the schools based on the number of 8th grade enrolled students.
     ![](https://github.com/meduardoscervantes/InstrinsicTechnicalExam/blob/main/resources/img/top_20_school.png "Top Schools with 8th Graders")
-
     Rank 1: HERNANDEZ
     Rank 2: RICHARDSON
     Rank 3: NORTHWEST
