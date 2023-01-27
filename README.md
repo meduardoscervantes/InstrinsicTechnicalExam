@@ -1,1 +1,3 @@
 # InstrinsicTechnicalExam
+
+## Thought Process
